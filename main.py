@@ -1,8 +1,5 @@
 
 
-
-__author__ = "Rohit Rane"
-
 import os
 import sys
 import pygame
@@ -504,4 +501,4 @@ def main():
     if not isGameQuit:
         gameplay()
 
-main()
+
